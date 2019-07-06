@@ -1,10 +1,5 @@
-choco install slack -y
-choco install visualstudio2017professional -y 
-choco install googlechrome -y 
-choco install chromium -y 
+choco install 7zip.install
 choco install vscode -y 
 choco install sql-server-management-studio -y 
 choco install conemu -y 
 choco install sharex -y 
-choco install visualstudio2017-workload-netweb -y
-choco install nugetpackageexplorer -y

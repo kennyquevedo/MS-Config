@@ -13,3 +13,4 @@ choco install visualstudio2019enterprise -y
 
 #environment
 choco install docker-desktop -y
+choco install gittfs -y

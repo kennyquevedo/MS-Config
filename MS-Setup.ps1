@@ -9,7 +9,7 @@ choco install postman -y
 choco install vscode -y 
 choco install sql-server-management-studio -y 
 choco install azure-data-studio -y
-choco install visualstudio2019enterprise -y
+choco install visualstudio2019professional -y
 
 #environment
 choco install docker-desktop -y

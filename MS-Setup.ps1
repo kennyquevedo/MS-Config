@@ -1,6 +1,5 @@
 #tools
 choco install 7zip.install -y
-choco install conemu -y 
 choco install sharex -y 
 choco install fiddler -y
 choco install postman -y

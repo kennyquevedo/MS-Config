@@ -3,7 +3,6 @@ choco install 7zip.install -y
 choco install sharex -y 
 choco install fiddler -y
 choco install postman -y
-#Demo 2
 
 #code editor
 choco install vscode -y 

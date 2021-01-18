@@ -15,7 +15,3 @@ choco install opera-developer -y
 #others
 choco install steam -y
 choco install folder_size -y
-choco install origin -y
-choco install uplay -y
-choco install epicgameslauncher -y
-choco install goggalaxy -y

@@ -10,7 +10,6 @@ choco install ditto.install -y
 choco install googlechrome -y
 choco install firefox -y
 choco install opera -y
-choco install opera-developer -y
 
 #others
 choco install steam -y

@@ -14,3 +14,4 @@ choco install opera -y
 #others
 choco install steam -y
 choco install folder_size -y
+choco install adobereader -y

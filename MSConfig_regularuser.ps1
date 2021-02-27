@@ -4,6 +4,7 @@ choco install sharex -y
 choco install gimp -y
 choco install k-litecodecpackfull -y
 choco install ditto.install -y
+choco install zoom -y
 
 #Browser
 choco install googlechrome -y
